@@ -1,0 +1,14 @@
+C:\Users\User\OneDrive\Документы\Visual Studio 2022\лаби\DeliverySystem\DeliverySystem\bin\Debug\net8.0\DeliverySystem.exe
+C:\Users\User\OneDrive\Документы\Visual Studio 2022\лаби\DeliverySystem\DeliverySystem\bin\Debug\net8.0\DeliverySystem.deps.json
+C:\Users\User\OneDrive\Документы\Visual Studio 2022\лаби\DeliverySystem\DeliverySystem\bin\Debug\net8.0\DeliverySystem.runtimeconfig.json
+C:\Users\User\OneDrive\Документы\Visual Studio 2022\лаби\DeliverySystem\DeliverySystem\bin\Debug\net8.0\DeliverySystem.dll
+C:\Users\User\OneDrive\Документы\Visual Studio 2022\лаби\DeliverySystem\DeliverySystem\bin\Debug\net8.0\DeliverySystem.pdb
+C:\Users\User\OneDrive\Документы\Visual Studio 2022\лаби\DeliverySystem\DeliverySystem\obj\Debug\net8.0\DeliverySystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Документы\Visual Studio 2022\лаби\DeliverySystem\DeliverySystem\obj\Debug\net8.0\DeliverySystem.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Документы\Visual Studio 2022\лаби\DeliverySystem\DeliverySystem\obj\Debug\net8.0\DeliverySystem.AssemblyInfo.cs
+C:\Users\User\OneDrive\Документы\Visual Studio 2022\лаби\DeliverySystem\DeliverySystem\obj\Debug\net8.0\DeliverySystem.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Документы\Visual Studio 2022\лаби\DeliverySystem\DeliverySystem\obj\Debug\net8.0\DeliverySystem.dll
+C:\Users\User\OneDrive\Документы\Visual Studio 2022\лаби\DeliverySystem\DeliverySystem\obj\Debug\net8.0\refint\DeliverySystem.dll
+C:\Users\User\OneDrive\Документы\Visual Studio 2022\лаби\DeliverySystem\DeliverySystem\obj\Debug\net8.0\DeliverySystem.pdb
+C:\Users\User\OneDrive\Документы\Visual Studio 2022\лаби\DeliverySystem\DeliverySystem\obj\Debug\net8.0\DeliverySystem.genruntimeconfig.cache
+C:\Users\User\OneDrive\Документы\Visual Studio 2022\лаби\DeliverySystem\DeliverySystem\obj\Debug\net8.0\ref\DeliverySystem.dll
