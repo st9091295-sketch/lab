@@ -1,6 +1,5 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using RestaurantOrderSystem.Models;
@@ -27,14 +26,38 @@ namespace RestaurantOrderSystem.Services
             }
         }
 
+        
         public List<MenuItem> SearchMenuByName(string name)
         {
-            return menu.Where(m => m.Name.Contains(name, StringComparison.OrdinalIgnoreCase)).ToList();
+            List<MenuItem> result = new List<MenuItem>();
+
+            foreach (var m in menu)
+            {
+               
+                if (m.Name.Contains(name, StringComparison.OrdinalIgnoreCase))
+                {
+                    result.Add(m);
+                }
+            }
+
+            return result;
         }
 
+        
         public List<MenuItem> SearchMenuByCategory(string category)
         {
-            return menu.Where(m => m.Category.Equals(category, StringComparison.OrdinalIgnoreCase)).ToList();
+            List<MenuItem> result = new List<MenuItem>();
+
+            foreach (var m in menu)
+            {
+                
+                if (m.Category.Equals(category, StringComparison.OrdinalIgnoreCase))
+                {
+                    result.Add(m);
+                }
+            }
+
+            return result;
         }
 
         public Order CreateOrder(int id, int table)
@@ -44,9 +67,18 @@ namespace RestaurantOrderSystem.Services
             return o;
         }
 
+        
         public Order? FindOrderById(int id)
         {
-            return orders.FirstOrDefault(o => o.Id == id);
+            foreach (var o in orders)
+            {
+                if (o.Id == id)
+                {
+                    return o; 
+                }
+            }
+
+            return null; 
         }
 
         public void PrintAllOrders()
@@ -57,8 +89,10 @@ namespace RestaurantOrderSystem.Services
                 return;
             }
 
-            foreach (var o in orders)
-                o.PrintShortInfo();
+            foreach (var order in orders)
+            {
+                order.PrintShortInfo();
+            }
         }
     }
 }

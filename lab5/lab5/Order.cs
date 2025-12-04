@@ -1,6 +1,5 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using RestaurantOrderSystem.Enums;
@@ -31,15 +30,40 @@ namespace RestaurantOrderSystem.Models
             if (item != null) items.Add(item);
         }
 
+        
         public void RemoveItem(int menuItemId)
         {
-            var item = items.FirstOrDefault(i => i.Id == menuItemId);
-            if (item != null) items.Remove(item);
+            MenuItem itemToRemove = null;
+
+            // Шукаємо страву вручну
+            foreach (var item in items)
+            {
+                if (item.Id == menuItemId)
+                {
+                    itemToRemove = item;
+                    break; 
+                }
+            }
+
+            // Якщо знайшли — видаляємо
+            if (itemToRemove != null)
+            {
+                items.Remove(itemToRemove);
+            }
         }
 
+     
         public decimal GetTotal()
         {
-            return items.Sum(i => i.Price);
+            decimal sum = 0;
+
+            // Рахуємо суму вручну
+            foreach (var item in items)
+            {
+                sum += item.Price;
+            }
+
+            return sum;
         }
 
         public void ChangeStatus(OrderStatus status)
@@ -59,8 +83,9 @@ namespace RestaurantOrderSystem.Models
             {
                 item.PrintInfo();
             }
-            Console.WriteLine($"Сума: {GetTotal()} грн");
-            Console.WriteLine("--------------------------------");
+            Console.WriteLine($"--------------------------------");
+            Console.WriteLine($"ЗАГАЛОМ: {GetTotal()} грн");
+            Console.WriteLine($"Статус: {Status}\n");
         }
     }
 }
