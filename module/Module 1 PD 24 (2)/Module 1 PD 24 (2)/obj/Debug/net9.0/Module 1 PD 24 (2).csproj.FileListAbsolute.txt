@@ -1,0 +1,28 @@
+C:\Users\User\OneDrive\Документы\пппі\Module 1 PD 24 (2)\Module 1 PD 24 (2)\bin\Debug\net9.0\Module 1 PD 24 (2).exe
+C:\Users\User\OneDrive\Документы\пппі\Module 1 PD 24 (2)\Module 1 PD 24 (2)\bin\Debug\net9.0\Module 1 PD 24 (2).deps.json
+C:\Users\User\OneDrive\Документы\пппі\Module 1 PD 24 (2)\Module 1 PD 24 (2)\bin\Debug\net9.0\Module 1 PD 24 (2).runtimeconfig.json
+C:\Users\User\OneDrive\Документы\пппі\Module 1 PD 24 (2)\Module 1 PD 24 (2)\bin\Debug\net9.0\Module 1 PD 24 (2).dll
+C:\Users\User\OneDrive\Документы\пппі\Module 1 PD 24 (2)\Module 1 PD 24 (2)\bin\Debug\net9.0\Module 1 PD 24 (2).pdb
+C:\Users\User\OneDrive\Документы\пппі\Module 1 PD 24 (2)\Module 1 PD 24 (2)\obj\Debug\net9.0\Module 1 PD 24 (2).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Документы\пппі\Module 1 PD 24 (2)\Module 1 PD 24 (2)\obj\Debug\net9.0\Module 1 PD 24 (2).AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Документы\пппі\Module 1 PD 24 (2)\Module 1 PD 24 (2)\obj\Debug\net9.0\Module 1 PD 24 (2).AssemblyInfo.cs
+C:\Users\User\OneDrive\Документы\пппі\Module 1 PD 24 (2)\Module 1 PD 24 (2)\obj\Debug\net9.0\Module 1 PD 24 (2).csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Документы\пппі\Module 1 PD 24 (2)\Module 1 PD 24 (2)\obj\Debug\net9.0\Module 1 PD 24 (2).dll
+C:\Users\User\OneDrive\Документы\пппі\Module 1 PD 24 (2)\Module 1 PD 24 (2)\obj\Debug\net9.0\refint\Module 1 PD 24 (2).dll
+C:\Users\User\OneDrive\Документы\пппі\Module 1 PD 24 (2)\Module 1 PD 24 (2)\obj\Debug\net9.0\Module 1 PD 24 (2).pdb
+C:\Users\User\OneDrive\Документы\пппі\Module 1 PD 24 (2)\Module 1 PD 24 (2)\obj\Debug\net9.0\Module 1 PD 24 (2).genruntimeconfig.cache
+C:\Users\User\OneDrive\Документы\пппі\Module 1 PD 24 (2)\Module 1 PD 24 (2)\obj\Debug\net9.0\ref\Module 1 PD 24 (2).dll
+C:\Users\User\OneDrive\Документы\Visual Studio 2022\модуль 1\Module 1 PD 24 (2)\Module 1 PD 24 (2)\bin\Debug\net9.0\Module 1 PD 24 (2).exe
+C:\Users\User\OneDrive\Документы\Visual Studio 2022\модуль 1\Module 1 PD 24 (2)\Module 1 PD 24 (2)\bin\Debug\net9.0\Module 1 PD 24 (2).deps.json
+C:\Users\User\OneDrive\Документы\Visual Studio 2022\модуль 1\Module 1 PD 24 (2)\Module 1 PD 24 (2)\bin\Debug\net9.0\Module 1 PD 24 (2).runtimeconfig.json
+C:\Users\User\OneDrive\Документы\Visual Studio 2022\модуль 1\Module 1 PD 24 (2)\Module 1 PD 24 (2)\bin\Debug\net9.0\Module 1 PD 24 (2).dll
+C:\Users\User\OneDrive\Документы\Visual Studio 2022\модуль 1\Module 1 PD 24 (2)\Module 1 PD 24 (2)\bin\Debug\net9.0\Module 1 PD 24 (2).pdb
+C:\Users\User\OneDrive\Документы\Visual Studio 2022\модуль 1\Module 1 PD 24 (2)\Module 1 PD 24 (2)\obj\Debug\net9.0\Module 1 PD 24 (2).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Документы\Visual Studio 2022\модуль 1\Module 1 PD 24 (2)\Module 1 PD 24 (2)\obj\Debug\net9.0\Module 1 PD 24 (2).AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Документы\Visual Studio 2022\модуль 1\Module 1 PD 24 (2)\Module 1 PD 24 (2)\obj\Debug\net9.0\Module 1 PD 24 (2).AssemblyInfo.cs
+C:\Users\User\OneDrive\Документы\Visual Studio 2022\модуль 1\Module 1 PD 24 (2)\Module 1 PD 24 (2)\obj\Debug\net9.0\Module 1 PD 24 (2).csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Документы\Visual Studio 2022\модуль 1\Module 1 PD 24 (2)\Module 1 PD 24 (2)\obj\Debug\net9.0\Module 1 PD 24 (2).dll
+C:\Users\User\OneDrive\Документы\Visual Studio 2022\модуль 1\Module 1 PD 24 (2)\Module 1 PD 24 (2)\obj\Debug\net9.0\refint\Module 1 PD 24 (2).dll
+C:\Users\User\OneDrive\Документы\Visual Studio 2022\модуль 1\Module 1 PD 24 (2)\Module 1 PD 24 (2)\obj\Debug\net9.0\Module 1 PD 24 (2).pdb
+C:\Users\User\OneDrive\Документы\Visual Studio 2022\модуль 1\Module 1 PD 24 (2)\Module 1 PD 24 (2)\obj\Debug\net9.0\Module 1 PD 24 (2).genruntimeconfig.cache
+C:\Users\User\OneDrive\Документы\Visual Studio 2022\модуль 1\Module 1 PD 24 (2)\Module 1 PD 24 (2)\obj\Debug\net9.0\ref\Module 1 PD 24 (2).dll

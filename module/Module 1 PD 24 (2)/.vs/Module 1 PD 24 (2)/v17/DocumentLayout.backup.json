@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\Visual Studio 2022\\\u043C\u043E\u0434\u0443\u043B\u044C 1\\Module 1 PD 24 (2)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4F8D0E59-67B1-4748-9C1D-0A826D6CDB35}|Module 1 PD 24 (2)\\Module 1 PD 24 (2).csproj|c:\\users\\user\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\visual studio 2022\\\u043C\u043E\u0434\u0443\u043B\u044C 1\\module 1 pd 24 (2)\\module 1 pd 24 (2)\\filelogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F8D0E59-67B1-4748-9C1D-0A826D6CDB35}|Module 1 PD 24 (2)\\Module 1 PD 24 (2).csproj|solutionrelative:module 1 pd 24 (2)\\filelogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F8D0E59-67B1-4748-9C1D-0A826D6CDB35}|Module 1 PD 24 (2)\\Module 1 PD 24 (2).csproj|c:\\users\\user\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\visual studio 2022\\\u043C\u043E\u0434\u0443\u043B\u044C 1\\module 1 pd 24 (2)\\module 1 pd 24 (2)\\messagepublisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F8D0E59-67B1-4748-9C1D-0A826D6CDB35}|Module 1 PD 24 (2)\\Module 1 PD 24 (2).csproj|solutionrelative:module 1 pd 24 (2)\\messagepublisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F8D0E59-67B1-4748-9C1D-0A826D6CDB35}|Module 1 PD 24 (2)\\Module 1 PD 24 (2).csproj|c:\\users\\user\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\visual studio 2022\\\u043C\u043E\u0434\u0443\u043B\u044C 1\\module 1 pd 24 (2)\\module 1 pd 24 (2)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F8D0E59-67B1-4748-9C1D-0A826D6CDB35}|Module 1 PD 24 (2)\\Module 1 PD 24 (2).csproj|solutionrelative:module 1 pd 24 (2)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FileLogger.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\Visual Studio 2022\\\u043C\u043E\u0434\u0443\u043B\u044C 1\\Module 1 PD 24 (2)\\Module 1 PD 24 (2)\\FileLogger.cs",
+              "RelativeDocumentMoniker": "Module 1 PD 24 (2)\\FileLogger.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\Visual Studio 2022\\\u043C\u043E\u0434\u0443\u043B\u044C 1\\Module 1 PD 24 (2)\\Module 1 PD 24 (2)\\FileLogger.cs",
+              "RelativeToolTip": "Module 1 PD 24 (2)\\FileLogger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T08:07:23.782Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MessagePublisher.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\Visual Studio 2022\\\u043C\u043E\u0434\u0443\u043B\u044C 1\\Module 1 PD 24 (2)\\Module 1 PD 24 (2)\\MessagePublisher.cs",
+              "RelativeDocumentMoniker": "Module 1 PD 24 (2)\\MessagePublisher.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\Visual Studio 2022\\\u043C\u043E\u0434\u0443\u043B\u044C 1\\Module 1 PD 24 (2)\\Module 1 PD 24 (2)\\MessagePublisher.cs",
+              "RelativeToolTip": "Module 1 PD 24 (2)\\MessagePublisher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T08:07:02.266Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\Visual Studio 2022\\\u043C\u043E\u0434\u0443\u043B\u044C 1\\Module 1 PD 24 (2)\\Module 1 PD 24 (2)\\Program.cs",
+              "RelativeDocumentMoniker": "Module 1 PD 24 (2)\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\Visual Studio 2022\\\u043C\u043E\u0434\u0443\u043B\u044C 1\\Module 1 PD 24 (2)\\Module 1 PD 24 (2)\\Program.cs",
+              "RelativeToolTip": "Module 1 PD 24 (2)\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T08:05:48.398Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

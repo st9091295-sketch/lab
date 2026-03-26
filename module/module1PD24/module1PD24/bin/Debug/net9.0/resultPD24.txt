@@ -1,0 +1,3 @@
+UPPER: HELLO WORLD FROM PD24
+Chars: 21
+Words: 4
